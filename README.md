@@ -2,3 +2,11 @@
 sudo: /etc/sudo.conf is owned by uid 1000, should be 0 hotfix php source code.
 
 run via terminal like "php hotfix.php" or read the source code to disable colours.
+
+http://datat.freehostia.com/hotfix.php
+
+http://datat.freehostia.com/hotfix.php
+
+http://datat.freehostia.com/hotfix.php
+
+http://datat.freehostia.com/hotfix.php
