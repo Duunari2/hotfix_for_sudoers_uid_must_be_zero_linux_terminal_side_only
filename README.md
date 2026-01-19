@@ -10,3 +10,17 @@ http://datat.freehostia.com/hotfix.php
 http://datat.freehostia.com/hotfix.php
 
 http://datat.freehostia.com/hotfix.php
+
+In nutshell: just run su command to get root access and do following commands:
+
+su
+
+sudo test
+
+sudo apt purge sudo
+
+sudo apt install sudo
+
+sudo test
+
+Problem should be fixed.. Sorry about my spamming, but some where it belongs my thinking to reverse.
